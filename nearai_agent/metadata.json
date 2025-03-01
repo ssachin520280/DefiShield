@@ -1,0 +1,16 @@
+{
+  "category": "agent",
+  "description": "AI-powered DeFi monitoring.",
+  "tags": [],
+  "details": {
+    "agent": {
+      "welcome": {
+        "description": "Welcome to DefiShield - your AI-powered assistant for monitoring and analyzing DeFi activities on the NEAR blockchain. Get real-time staking status, track yield opportunities, and receive personalized insights to optimize your DeFi strategy.",
+        "title": "DefiShield - Smart DeFi Monitoring"
+      }
+    }
+  },
+  "show_entry": true,
+  "name": "DefiShield",
+  "version": "0.0.1"
+}
